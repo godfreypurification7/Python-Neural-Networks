@@ -1,0 +1,25 @@
+import numpy as np
+inputs=[1,2,3,2.5]
+# weights=[0.2,0.8,-0.5,1]
+weights=[[0.2,0.8,-0.5,1],
+         [0.5,-0.91,0.26,-0.5],
+         [-0.26,-0.27,0.17,0.87]]
+bias=2
+output= np.dot(weights,inputs)+bias
+print(output)
+#dot-product
+
+
+'''
+a=[1,2,3]
+b=[2,3,4]
+dot_product=a[0]*b[0]+a[]*b[1]+a[2]*b[2]
+#vector of vector
+a.b=[1,2,3]*[2,3,4]=1.2+2.3+3.4
+weights=[[0.2,0.8,-0.5,1],
+         [0.5,-0.91,0.26,-0.5],
+         [-0.26,-0.27,0.17,0.87]]
+biases=[2,3,0.5]
+'''
+
+# https://www.youtube.com/watch?v=TEWy9vZcxW4&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&index=4
