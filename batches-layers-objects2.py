@@ -22,9 +22,3 @@ layer1.forward(X)
 print("layer1",layer1.output) 
 layer2.forward(layer1.output)
 print("layer2",layer2.output)
-
-
-
-
-
-# https://www.youtube.com/watch?v=TEWy9vZcxW4&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&index=5  22
