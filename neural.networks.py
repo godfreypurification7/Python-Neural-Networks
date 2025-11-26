@@ -18,6 +18,3 @@ for neuron_weights, nouron_bias in zip(weights,biases):
     layer_outputs.append(neuron_output)
 print('layer_outputs',layer_outputs) 
 '''
-
-
-# https://www.youtube.com/watch?v=tMrbN67U9d4&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&index=3
