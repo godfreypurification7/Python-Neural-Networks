@@ -21,5 +21,3 @@ weights=[[0.2,0.8,-0.5,1],
          [-0.26,-0.27,0.17,0.87]]
 biases=[2,3,0.5]
 '''
-
-# https://www.youtube.com/watch?v=TEWy9vZcxW4&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&index=4
