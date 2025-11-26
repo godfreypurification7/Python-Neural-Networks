@@ -53,6 +53,3 @@ loss_function =Loss_CategoricalCrossentropy()
 loss=loss_function.calculate(activation2.output,y)
 print("Loss",loss)
 
-
-
-# https://www.youtube.com/watch?v=levekYbxauw&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&index=8
